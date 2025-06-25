@@ -181,7 +181,7 @@ tifffile==2025.2.18
 tk==0.1.0
 toml==0.10.2
 toolz==1.0.0
-torch==2.5.1+cu118
+torch==2.5.1
 torchaudio==2.5.1+cu118
 torchvision==0.20.1+cu118
 tornado==6.4.2
