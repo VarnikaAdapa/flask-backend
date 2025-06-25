@@ -136,7 +136,7 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.0.0
 python-jwt==4.1.0
 pytz==2024.2
-pywin32==308
+#pywin32==308
 PyYAML==6.0.2
 rembg==2.0.64
 reportlab==4.0.7
